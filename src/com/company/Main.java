@@ -98,40 +98,7 @@ public class Main {
         }
 
 
-
-//        System.out.println(Arrays.asList(travelMap));
-
-
-//        for (Cities aCity : cityList ) {
-//
-//
-//            for (int i = 0; i < stateList.size(); i++) {
-//                System.out.println(stateList.subList(0,stateList.size()));
-//
-//            }
-////            // setting states
-////            state1.setStateAbbr("AZ");
-////            state2.setStateAbbr("GA");
-////            state3.setStateAbbr("HI");
-////            state4.setStateAbbr("LA");
-////            state5.setStateAbbr("NV");
-//
-//            if(aCity.getCityName().startsWith("N")){
-//                travelMap.put(aCity,state4);
-//            }else if (aCity.getCityName().startsWith("La")){
-//                travelMap.put(aCity,state5);
-//            }else if (aCity.getCityName().startsWith("H")){
-//                travelMap.put(aCity,state3);
-//            }else if (aCity.getCityName().startsWith("A")){
-//                travelMap.put(aCity,state2);
-//            }else
-//            travelMap.put(aCity,state1);
-//
-//
-//
-//        }
-
-        //        Be able to get the key-value pairs individually
+//        Be able to get the key-value pairs individually
 
 
 //        Be able to print the list of 5 cities and corresponding states using a loop.
